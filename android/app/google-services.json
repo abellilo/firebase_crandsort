@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952782237276",
+    "project_id": "fir-crandsort",
+    "storage_bucket": "fir-crandsort.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952782237276:android:f72b196b802121f09b4099",
+        "android_client_info": {
+          "package_name": "com.example.firebase_cr_sort"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrt8tEWD0ygpKX3I4Yrlg0x-TyuQ18B00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
